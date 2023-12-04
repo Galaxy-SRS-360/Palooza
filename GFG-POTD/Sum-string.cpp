@@ -1,3 +1,5 @@
+class Solution{   
+public:
 int isSumString(string S) {
         int n = S.size();
 
@@ -80,3 +82,4 @@ int isSumString(string S) {
 
         return 0;
     }
+};
